@@ -1,0 +1,48 @@
+.home{
+  background-image: url("Mumbai-to-Malshej-Ghat.jpg");
+  background-size: 1300px 500px;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+#homeH1{
+  color: white;
+}
+
+#homeH3{
+  color: white;
+}
+
+
+@media (min-width: 1000px) {
+
+      .card-deck {
+            padding:10px 200px 10px 200px;
+       }
+
+}
+
+@media (max-width: 1000px) {
+
+      .card-deck {
+            padding:10px;
+       }
+
+}
+
+#contact{
+  text-align: center;
+}
+
+#priceBar{
+  text-align: center;
+}
+
+.infoContact{
+  padding: 10px;
+}
+
+.btn{
+  margin: 10px;
+}
